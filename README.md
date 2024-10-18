@@ -40,6 +40,3 @@
 
 #### 9. **Budget Required**
   1000 Baht
----
-
-This template can be adjusted based on the specific details of your smart farm project.
